@@ -1,4 +1,4 @@
-import { FcLike } from 'react-icons';
+// import { FcLike } from 'react-icons';
 
 const CarCard = ({
   id,
